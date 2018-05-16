@@ -5,6 +5,8 @@
 #include <string>
 #include <vector>
 
+Мозги не варят, не пашут, не работают.
+
 class Object
 {
     std::map<std::string, std::string> Data;
